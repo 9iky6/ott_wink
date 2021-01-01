@@ -284,6 +284,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_FANHD/variant.m3u8
 #EXTINF: -1 tvg-chno="146" group-title="Кино и сериалы" tvg-id="mir-seriala",Мир сериала
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRSERIALA/variant.m3u8
+#EXTINF: -1 ch-number="147" group-title="Кино и сериалы" tvg-id="siestahd",Сиеста HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://langamepp.com/chtst/346E79777E42B7A7653E55BFE851F2F0065E4A474D77CB76E4EEED6F5D807321B6BEC91F1A19C5D20D5226E2
 #EXTINF: -1 tvg-chno="148" group-title="Кино и сериалы" tvg-id="trashtv",Trash
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TRASHHD/variant.m3u8
@@ -437,6 +440,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_WEAPON/variant.m3u8
 #EXTINF: -1 tvg-chno="244" group-title="Познавательные" tvg-id="tayny-galaktiki",Тайны Галактики
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TAINYGALAKTIKIHD/variant.m3u8
+#EXTINF: -1 ch-number="245" group-title="Познавательные" tvg-id="nano-tv",Нано
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+https://mhd.iptv2022.com/p/pz8_wicZiBC1V3Pto0oJag,1609604820/streaming/nano/324/variable.m3u8
 #EXTINF: -1 tvg-chno="246" group-title="Национальные" tvg-id="kazakh-tv",Kazakh TV
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KAZAHHD/variant.m3u8
@@ -458,9 +464,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_ARSENALHD/variant.m3u8
 #EXTINF: -1 tvg-chno="301" group-title="Детские" tvg-id="nickelodeon-ru",Nickelodeon
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NICKELODEON/variant.m3u8
-#EXTINF: -1 tvg-chno="302" group-title="Детские" tvg-id="disney",Канал Disney
+#EXTINF: -1 tvg-chno="302" group-title="Детские" tvg-id="disney-pl2",Канал Disney
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?version=2
 #EXTINF: -1 tvg-chno="303" group-title="Детские" tvg-id="mult",Мульт
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MULT/variant.m3u8
