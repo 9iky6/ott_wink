@@ -520,7 +520,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MULTIMANIA/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ANI/variant.m3u8
 #EXTINF: -1 num="322" group-title="Детские" tvg-id="smaylik-tv",Смайлик
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SMAILIKHD/variant.m3u8
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u
 #EXTINF: -1 num="333" group-title="Детские" tvg-id="sts-kids-hd",СТС Kids HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/variant.m3u8
