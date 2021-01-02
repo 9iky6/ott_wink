@@ -1,1003 +1,1018 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
-#EXTINF: -1 tvg-chno="0" group-title="Телемагазины" tvg-id="vsio-tv",Всё ТВ
+#EXTINF: -1 tv-number="0" group-title="Телемагазины" tvg-id="vsio-tv",Всё ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://s72169.cdn.ngenix.net/hls/CH_VSETVHD_HLS/variant.m3u8
-#EXTINF: -1 tvg-chno="1" group-title="Эфирные" tvg-id="pervy-pl2",Первый канал
+#EXTINF: -1 tv-number="1" group-title="Эфирные" tvg-id="pervy-pl2",Первый канал
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_URAL_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="2" group-title="Эфирные" tvg-id="rossia1-pl2",Россия 1
+#EXTINF: -1 tv-number="2" group-title="Эфирные" tvg-id="rossia1-pl2",Россия 1
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_URAL_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="3" group-title="Спортивные" tvg-id="match-tv",Матч ТВ
+#EXTINF: -1 tv-number="3" group-title="Спортивные" tvg-id="match-tv",Матч ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF: -1 tvg-chno="4" group-title="Эфирные" tvg-id="ntv-pl2",НТВ
+#EXTINF: -1 tv-number="4" group-title="Эфирные" tvg-id="ntv-pl2",НТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="5" group-title="Эфирные" tvg-id="5kanal-ru-pl2",Пятый канал
+#EXTINF: -1 tv-number="5" group-title="Эфирные" tvg-id="5kanal-ru-pl2",Пятый канал
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_5TV_URAL_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="6" group-title="Эфирные" tvg-id="kultura-pl2",Россия К
+#EXTINF: -1 tv-number="6" group-title="Эфирные" tvg-id="kultura-pl2",Россия К
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_ROSSIAK_URAL_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="7" group-title="Эфирные" tvg-id="rossia-24",Россия 24
+#EXTINF: -1 tv-number="7" group-title="Эфирные" tvg-id="rossia-24",Россия 24
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_URAL_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="8" group-title="Эфирные" tvg-id="karusel-pl2",Карусель
+#EXTINF: -1 tv-number="8" group-title="Детские" tvg-id="karusel-pl2",Карусель
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_KARUSEL_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="9" group-title="Эфирные" tvg-id="otr-pl2",Общественное телевидение России
+#EXTINF: -1 tv-number="9" group-title="Эфирные" tvg-id="otr-pl2",ОТР
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_OTR_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="10" group-title="Эфирные" tvg-id="tvcentr-pl2",ТВ Центр
+#EXTINF: -1 tv-number="10" group-title="Эфирные" tvg-id="tvcentr-pl2",ТВ Центр
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_URAL_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="11" group-title="Кино и сериалы" tvg-id="rentv-pl2",РЕН ТВ
+#EXTINF: -1 tv-number="11" group-title="Кино и сериалы" tvg-id="rentv-pl2",РЕН ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_URAL_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="12" group-title="Эфирные" tvg-id="spas-pl2",Спас
+#EXTINF: -1 tv-number="12" group-title="Эфирные" tvg-id="spas-pl2",Спас
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_SPAS_RTRS/variant.m3u8
-#EXTINF: -1 tvg-chno="13" group-title="Развлекательные" tvg-id="sts-pl2",СТС
+#EXTINF: -1 tv-number="13" group-title="Развлекательные" tvg-id="sts-pl2",СТС
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STS_URAL_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="14" group-title="Развлекательные" tvg-id="domashny-pl2",Домашний
+#EXTINF: -1 tv-number="14" group-title="Развлекательные" tvg-id="domashny-pl2",Домашний
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOM_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="15" group-title="Кино и сериалы" tvg-id="tv3-ru-pl2",ТВ 3
+#EXTINF: -1 tv-number="15" group-title="Кино и сериалы" tvg-id="tv3-ru-pl2",ТВ 3
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TV3_URAL_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="16" group-title="Развлекательные" tvg-id="piatnica-pl2",Телекомпания ПЯТНИЦА
+#EXTINF: -1 tv-number="16" group-title="Развлекательные" tvg-id="piatnica-pl2",Пятница!
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_FRIDAY_URAL/variant.m3u8
-#EXTINF: -1 tvg-chno="17" group-title="Развлекательные" tvg-id="zvezda-pl2",Звезда
+#EXTINF: -1 tv-number="17" group-title="Развлекательные" tvg-id="zvezda-pl2",Звезда
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="18" group-title="Эфирные" tvg-id="mir-pl2",Мир
+#EXTINF: -1 tv-number="18" group-title="Эфирные" tvg-id="mir-pl2",Мир
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_MIR_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="19" group-title="Развлекательные" tvg-id="tnt-pl2",ТНТ
+#EXTINF: -1 tv-number="19" group-title="Развлекательные" tvg-id="tnt-pl2",ТНТ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNT_URAL_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="20" group-title="Музыкальные" tvg-id="muztv",Муз ТВ
+#EXTINF: -1 tv-number="20" group-title="Музыкальные" tvg-id="muztv",Муз ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MUZTV_RTRS_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="21" group-title="Региональные" tvg-id="otv-chelyabinsk",ОТВ HD
+#EXTINF: -1 tv-number="21" group-title="Региональные" tvg-id="otv-chelyabinsk",ОТВ HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="27" group-title="Развлекательные" tvg-id="che-pl2",Че
+#EXTINF: -1 tv-number="27" group-title="Развлекательные" tvg-id="che-pl2",Че
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
-#EXTINF: -1 tvg-chno="28" group-title="Телемагазины" tvg-id="shopping-live",Shopping live
+#EXTINF: -1 tv-number="28" group-title="Телемагазины" tvg-id="shopping-live",Shopping live
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SHOPPINGLIFE/variant.m3u8
-#EXTINF: -1 tvg-chno="29" group-title="Информационные" tvg-id="izvestia",Телеканал "Известия" HD
+#EXTINF: -1 tv-number="29" group-title="Информационные" tvg-id="izvestia",Телеканал "Известия" HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/variant.m3u8
-#EXTINF: -1 tvg-chno="30" group-title="Телемагазины" tvg-id="shop-n-show",Shop&Show
+#EXTINF: -1 tv-number="30" group-title="Телемагазины" tvg-id="shop-n-show",Shop&Show
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SHOPANDSHOW/variant.m3u8
-#EXTINF: -1 tvg-chno="31" group-title="Национальные" tvg-id="russia-today",RTTV HD
+#EXTINF: -1 tv-number="31" group-title="Национальные" tvg-id="russia-today",RTTV HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RTTVHD/variant.m3u8
-#EXTINF: -1 tvg-chno="32" group-title="Телемагазины" tvg-id="yuvelirochka",Ювелирочка
+#EXTINF: -1 tv-number="32" group-title="Телемагазины" tvg-id="yuvelirochka",Ювелирочка
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_JUVELIRTV/variant.m3u8
-#EXTINF: -1 tvg-chno="33" group-title="Национальные" tvg-id="deutsche-welle-eu",DW-TV
+#EXTINF: -1 tv-number="33" group-title="Национальные" tvg-id="deutsche-welle-eu",DW-TV
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DEUTSCHEWELLE/variant.m3u8
-#EXTINF: -1 tvg-chno="34" group-title="Федеральные" tvg-id="yu-pl2",Ю
+#EXTINF: -1 tv-number="34" group-title="Федеральные" tvg-id="yu-pl2",Ю
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
-#EXTINF: -1 tvg-chno="36" group-title="Информационные" tvg-id="euronews",Евроновости
+#EXTINF: -1 tv-number="36" group-title="Информационные" tvg-id="euronews",Евроновости
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EURONEWS/variant.m3u8
-#EXTINF: -1 tvg-chno="37" group-title="Национальные" tvg-id="nhk-world",NHK WORLD-JAPAN
+#EXTINF: -1 tv-number="37" group-title="Национальные" tvg-id="nhk-world",NHK WORLD-JAPAN
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NHK/variant.m3u8
-#EXTINF: -1 tvg-chno="38" group-title="Телемагазины" tvg-id="shop24",Leomax24
+#EXTINF: -1 tv-number="38" group-title="Телемагазины" tvg-id="shop24",Leomax24
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_SHOP24/variant.m3u8
-#EXTINF: -1 tvg-chno="39" group-title="Информационные" tvg-id="rbk",РБК-ТВ
+#EXTINF: -1 tv-number="39" group-title="Информационные" tvg-id="rbk",РБК-ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BRC/variant.m3u8
-#EXTINF: -1 tvg-chno="40" group-title="Информационные" tvg-id="mir-24",Мир 24
+#EXTINF: -1 tv-number="40" group-title="Информационные" tvg-id="mir-24",Мир 24
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR24/variant.m3u8
-#EXTINF: -1 tvg-chno="41" group-title="Национальные" tvg-id="cnn",CNN International
+#EXTINF: -1 tv-number="41" group-title="Национальные" tvg-id="cnn",CNN International
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CNN_INTERNATIONAL/variant.m3u8
-#EXTINF: -1 tvg-chno="42" group-title="Информационные" tvg-id="360-int",360
+#EXTINF: -1 tv-number="42" group-title="Информационные" tvg-id="360-int",360
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PODMOSKOVIEHD/variant.m3u8
-#EXTINF: -1 tvg-chno="43" group-title="Национальные" tvg-id="bbc",BBC World News
+#EXTINF: -1 tv-number="43" group-title="Национальные" tvg-id="bbc",BBC World News
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BBCWORLDNEWS/variant.m3u8
-#EXTINF: -1 tvg-chno="45" group-title="Познавательные" tvg-id="bolshaya-azia",Большая Азия HD
+#EXTINF: -1 tv-number="45" group-title="Познавательные" tvg-id="bolshaya-azia",Большая Азия HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BIGASIAHD/variant.m3u8
-#EXTINF: -1 tvg-chno="46" group-title="Информационные" tvg-id="vmeste-rf",ВМЕСТЕ-РФ
+#EXTINF: -1 tv-number="46" group-title="Информационные" tvg-id="vmeste-rf",ВМЕСТЕ-РФ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SOVETFEDERATSII/variant.m3u8
-#EXTINF: -1 tvg-chno="47" group-title="Информационные" tvg-id="ldpr-tv",ЛДПР ТВ
+#EXTINF: -1 tv-number="47" group-title="Информационные" tvg-id="ldpr-tv",ЛДПР ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_LDPR/variant.m3u8
-#EXTINF: -1 tvg-chno="48" group-title="Эфирные" tvg-id="echotv24",Эхо-ТВ
+#EXTINF: -1 tv-number="48" group-title="Эфирные" tvg-id="echotv24",Эхо-ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ECHOTV/variant.m3u8
-#EXTINF: -1 tvg-chno="49" group-title="Информационные" tvg-id="krasnaya-linia",Красная Линия
+#EXTINF: -1 tv-number="49" group-title="Информационные" tvg-id="krasnaya-linia",Красная Линия
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_REDLINE/variant.m3u8
-#EXTINF: -1 tvg-chno="51" group-title="Национальные" tvg-id="France 24",France 24
+#EXTINF: -1 tv-number="51" group-title="Национальные" tvg-id="France 24",France 24
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRANCE24HD/variant.m3u8
-#EXTINF: -1 tvg-chno="52" group-title="Информационные" tvg-id="360-news",360 Новости
+#EXTINF: -1 tv-number="52" group-title="Информационные" tvg-id="360-news",360 Новости
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_360NEWSHD/variant.m3u8
-#EXTINF: -1 tvg-chno="54" group-title="Федеральные" tvg-id="super-pl2",Супер
+#EXTINF: -1 tv-number="54" group-title="Федеральные" tvg-id="super-pl2",Супер
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
-#EXTINF: -1 tvg-chno="57" group-title="Национальные" tvg-id="xabar24",Хабар 24
+#EXTINF: -1 tv-number="57" group-title="Национальные" tvg-id="xabar24",Хабар 24
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_HABARHD/variant.m3u8
-#EXTINF: -1 tvg-chno="58" group-title="Национальные" tvg-id="prnk-tv",Первый российский национальный канал
+#EXTINF: -1 tv-number="58" group-title="Национальные" tvg-id="prnk-tv",Первый российский национальный канал
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1RNKHD/variant.m3u8
-#EXTINF: -1 tvg-chno="59" group-title="Информационные" tvg-id="dumatv",Дума ТВ
+#EXTINF: -1 tv-number="59" group-title="Информационные" tvg-id="dumatv",Дума ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DUMATV/variant.m3u8
-#EXTINF: -1 tvg-chno="75" group-title="Кино и сериалы" tvg-id="pobeda",ПОБЕДА
+#EXTINF: -1 tv-number="75" group-title="Кино и сериалы" tvg-id="pobeda",ПОБЕДА
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_POBEDAHD/variant.m3u8
-#EXTINF: -1 tvg-chno="99" group-title="Кино и сериалы" tvg-id="mosfilm",Мосфильм. Золотая коллекция
+#EXTINF: -1 tv-number="99" group-title="Кино и сериалы" tvg-id="mosfilm",Мосфильм. Золотая коллекция
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSFILMHD/variant.m3u8
-#EXTINF: -1 tvg-chno="100" group-title="Телемагазины" tvg-id="vsio-tv",Всё ТВ
+#EXTINF: -1 tv-number="100" group-title="Телемагазины" tvg-id="vsio-tv",Всё ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://s72169.cdn.ngenix.net/hls/CH_VSETVHD_HLS/variant.m3u8
-#EXTINF: -1 tvg-chno="101" group-title="Кино и сериалы" tvg-id="tv1000-action",TV1000 Action HD
+#EXTINF: -1 tv-number="101" group-title="Кино и сериалы" tvg-id="tv1000-action",TV1000 Action HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8
-#EXTINF: -1 tvg-chno="102" group-title="Кино и сериалы" tvg-id="tv1000",TV1000 HD
+#EXTINF: -1 tv-number="102" group-title="Кино и сериалы" tvg-id="tv1000",TV1000 HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8
-#EXTINF: -1 tvg-chno="103" group-title="Федеральные" tvg-id="sts-love-pl2",СТС Love
+#EXTINF: -1 tv-number="103" group-title="Федеральные" tvg-id="sts-love-pl2",СТС Love
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
-#EXTINF: -1 tvg-chno="104" group-title="Кино и сериалы" tvg-id="tvxxi",TV XXI Век
+#EXTINF: -1 tv-number="104" group-title="Кино и сериалы" tvg-id="tvxxi",TV XXI Век
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/variant.m3u8
-#EXTINF: -1 tvg-chno="105" group-title="Кино и сериалы" tvg-id="illuzion-plus",Иллюзион +
+#EXTINF: -1 tv-number="105" group-title="Кино и сериалы" tvg-id="illuzion-plus",Иллюзион +
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8
-#EXTINF: -1 tvg-chno="106" group-title="Кино и сериалы" tvg-id="russky-illuzion",Русский Иллюзион
+#EXTINF: -1 tv-number="106" group-title="Кино и сериалы" tvg-id="russky-illuzion",Русский Иллюзион
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/variant.m3u8
-#EXTINF: -1 tvg-chno="107" group-title="Кино и сериалы" tvg-id="tv1000-russkoe-kino",TV1000 Русское кино HD
+#EXTINF: -1 tv-number="107" group-title="Кино и сериалы" tvg-id="tv1000-russkoe-kino",TV1000 Русское кино HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/variant.m3u8
-#EXTINF: -1 tvg-chno="108" group-title="Кино и сериалы" tvg-id="kinokomedia",КИНОКОМЕДИЯ
+#EXTINF: -1 tv-number="108" group-title="Кино и сериалы" tvg-id="kinokomedia",КИНОКОМЕДИЯ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYTV/variant.m3u8
-#EXTINF: -1 tvg-chno="109" group-title="Кино и сериалы" tvg-id="paramount-comedy",Paramount Comedy HD
+#EXTINF: -1 tv-number="109" group-title="Кино и сериалы" tvg-id="paramount-comedy",Paramount Comedy HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8
-#EXTINF: -1 tvg-chno="110" group-title="Кино и сериалы" tvg-id="sony-tv",Sony Channel HD
+#EXTINF: -1 tv-number="110" group-title="Кино и сериалы" tvg-id="sony-tv",Sony Channel HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_SETHD/variant.m3u8
-#EXTINF: -1 tvg-chno="112" group-title="Кино и сериалы" tvg-id="nst",НСТ
+#EXTINF: -1 tv-number="112" group-title="Кино и сериалы" tvg-id="nst",НСТ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NSTV/variant.m3u8
-#EXTINF: -1 tvg-chno="113" group-title="Кино и сериалы" tvg-id="fox",FOX HD
+#EXTINF: -1 tv-number="113" group-title="Кино и сериалы" tvg-id="fox",FOX HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_FOXHD/variant.m3u8
-#EXTINF: -1 tvg-chno="114" group-title="Кино и сериалы" tvg-id="foxlife",Fox Life HD
+#EXTINF: -1 tv-number="114" group-title="Кино и сериалы" tvg-id="foxlife",Fox Life HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_FOXLIFEHD/variant.m3u8
-#EXTINF: -1 tvg-chno="115" group-title="Кино и сериалы" tvg-id="feniks-plus-kino",Феникс плюс Кино
+#EXTINF: -1 tv-number="115" group-title="Кино и сериалы" tvg-id="feniks-plus-kino",Феникс плюс Кино
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_GENIKSPLUSKINO/variant.m3u8
-#EXTINF: -1 tvg-chno="116" group-title="Кино и сериалы" tvg-id="domkino",Дом Кино
+#EXTINF: -1 tv-number="116" group-title="Кино и сериалы" tvg-id="domkino",Дом Кино
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINO/variant.m3u8
-#EXTINF: -1 tvg-chno="117" group-title="Кино и сериалы" tvg-id="sony-scifi",Sony Sci-Fi
+#EXTINF: -1 tv-number="117" group-title="Кино и сериалы" tvg-id="sony-scifi",Sony Sci-Fi
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SONYSCIFI/variant.m3u8
-#EXTINF: -1 tvg-chno="118" group-title="Кино и сериалы" tvg-id="lubimoe-kino",Любимое Кино
+#EXTINF: -1 tv-number="118" group-title="Кино и сериалы" tvg-id="lubimoe-kino",Любимое Кино
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_LUBIMOE/variant.m3u8
-#EXTINF: -1 tvg-chno="119" group-title="Кино и сериалы" tvg-id="amedia2",A2
+#EXTINF: -1 tv-number="119" group-title="Кино и сериалы" tvg-id="amedia2",A2
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_A2PROLYBOV/variant.m3u8
-#EXTINF: -1 tvg-chno="120" group-title="Кино и сериалы" tvg-id="kinouzhas",КИНОУЖАС
+#EXTINF: -1 tv-number="120" group-title="Кино и сериалы" tvg-id="kinouzhas",КИНОУЖАС
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUZHASHD/variant.m3u8
-#EXTINF: -1 tvg-chno="121" group-title="Кино и сериалы" tvg-id="russkaya-komedia",Комедия
+#EXTINF: -1 tv-number="121" group-title="Кино и сериалы" tvg-id="russkaya-komedia",Комедия
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KOMEDIA/variant.m3u8
-#EXTINF: -1 tvg-chno="122" group-title="Кино и сериалы" tvg-id="kinomiks",КИНОМИКС
+#EXTINF: -1 tv-number="122" group-title="Кино и сериалы" tvg-id="kinomiks",КИНОМИКС
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINO/variant.m3u8
-#EXTINF: -1 tvg-chno="123" group-title="Кино и сериалы" tvg-id="muzhskoe-kino",МУЖСКОЕ КИНО
+#EXTINF: -1 tv-number="123" group-title="Кино и сериалы" tvg-id="muzhskoe-kino",МУЖСКОЕ КИНО
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8
-#EXTINF: -1 tvg-chno="124" group-title="Кино и сериалы" tvg-id="rodnoe-kino",РОДНОЕ КИНО
+#EXTINF: -1 tv-number="124" group-title="Кино и сериалы" tvg-id="rodnoe-kino",РОДНОЕ КИНО
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNASHEKINO/variant.m3u8
-#EXTINF: -1 tvg-chno="125" group-title="Кино и сериалы" tvg-id="nashe-novoe-kino",НАШЕ НОВОЕ КИНО
+#EXTINF: -1 tv-number="125" group-title="Кино и сериалы" tvg-id="nashe-novoe-kino",НАШЕ НОВОЕ КИНО
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8
-#EXTINF: -1 tvg-chno="126" group-title="Кино и сериалы" tvg-id="paramount-channel",Paramount Channel
+#EXTINF: -1 tv-number="126" group-title="Кино и сериалы" tvg-id="paramount-channel",Paramount Channel
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PARAMOUNTCHANNEL/variant.m3u8
-#EXTINF: -1 tvg-chno="127" group-title="Кино и сериалы" tvg-id="kino-tv",Кино ТВ HD
+#EXTINF: -1 tv-number="127" group-title="Кино и сериалы" tvg-id="kino-tv",Кино ТВ HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD/variant.m3u8
-#EXTINF: -1 tvg-chno="129" group-title="Кино и сериалы" tvg-id="zee-tv",Zee TV
+#EXTINF: -1 tv-number="129" group-title="Кино и сериалы" tvg-id="zee-tv",Zee TV
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETVHD/variant.m3u8
-#EXTINF: -1 tvg-chno="130" group-title="Кино и сериалы" tvg-id="retro-tv",Ретро
+#EXTINF: -1 tv-number="130" group-title="Кино и сериалы" tvg-id="retro-tv",Ретро
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RETROTV/variant.m3u8
-#EXTINF: -1 tvg-chno="131" group-title="Кино и сериалы" tvg-id="russky-roman",Русский роман HD
+#EXTINF: -1 tv-number="131" group-title="Кино и сериалы" tvg-id="russky-roman",Русский роман HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSKIYROMANHD/variant.m3u8
-#EXTINF: -1 tvg-chno="132" group-title="Кино и сериалы" tvg-id="russky-bestseller",Русский бестселлер
+#EXTINF: -1 tv-number="132" group-title="Кино и сериалы" tvg-id="russky-bestseller",Русский бестселлер
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANBESTSELLER/variant.m3u8
-#EXTINF: -1 tvg-chno="133" group-title="Кино и сериалы" tvg-id="amedia1",A1 HD
+#EXTINF: -1 tv-number="133" group-title="Кино и сериалы" tvg-id="amedia1",A1 HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_HDAMEDIA/variant.m3u8
-#EXTINF: -1 tvg-chno="134" group-title="Кино и сериалы" tvg-id="russky-detektiv",Русский детектив
+#EXTINF: -1 tv-number="134" group-title="Кино и сериалы" tvg-id="russky-detektiv",Русский детектив
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8
-#EXTINF: -1 tvg-chno="135" group-title="Кино и сериалы" tvg-id="cinema-ru",Cinema
+#EXTINF: -1 tv-number="135" group-title="Кино и сериалы" tvg-id="cinema-ru",Cinema
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PARKRAZVLECHENIJ/variant.m3u8
-#EXTINF: -1 tvg-chno="136" group-title="Кино и сериалы" tvg-id="spike",Spike HD
+#EXTINF: -1 tv-number="136" group-title="Кино и сериалы" tvg-id="spike",Spike HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPIKEHD/variant.m3u8
-#EXTINF: -1 tvg-chno="137" group-title="Кино и сериалы" tvg-id="dorama",Дорама
+#EXTINF: -1 tv-number="137" group-title="Кино и сериалы" tvg-id="dorama",Дорама
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DORAMA/variant.m3u8
-#EXTINF: -1 tvg-chno="138" group-title="Кино и сериалы" tvg-id="sony-turbo",Sony Turbo
+#EXTINF: -1 tv-number="138" group-title="Кино и сериалы" tvg-id="sony-turbo",Sony Turbo
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SONYTURBO/variant.m3u8
-#EXTINF: -1 tvg-chno="139" group-title="Кино и сериалы" tvg-id="star-cinema",Star Cinema
+#EXTINF: -1 tv-number="139" group-title="Кино и сериалы" tvg-id="star-cinema",Star Cinema
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STARCINEMAHD/variant.m3u8
-#EXTINF: -1 tvg-chno="140" group-title="Кино и сериалы" tvg-id="star-family",Star Family
+#EXTINF: -1 tv-number="140" group-title="Кино и сериалы" tvg-id="star-family",Star Family
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STARFAMILYHD/variant.m3u8
-#EXTINF: -1 tvg-chno="141" group-title="Кино и сериалы" tvg-id="bolt-ru",BOLT
+#EXTINF: -1 tv-number="141" group-title="Кино и сериалы" tvg-id="bolt-ru",BOLT
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BOLTHD/variant.m3u8
-#EXTINF: -1 tvg-chno="143" group-title="Кино и сериалы" tvg-id="shot-tv",SHOT TV
+#EXTINF: -1 tv-number="143" group-title="Кино и сериалы" tvg-id="shot-tv",SHOT TV
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SHOTTVHD/variant.m3u8
-#EXTINF: -1 tvg-chno="144" group-title="Познавательные" tvg-id="tayna",ТАЙНА
+#EXTINF: -1 tv-number="144" group-title="Познавательные" tvg-id="tayna",ТАЙНА
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TAINA/variant.m3u8
-#EXTINF: -1 tvg-chno="145" group-title="Кино и сериалы" tvg-id="fanhd",FAN HD
+#EXTINF: -1 tv-number="145" group-title="Кино и сериалы" tvg-id="fanhd",FAN HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FANHD/variant.m3u8
-#EXTINF: -1 tvg-chno="146" group-title="Кино и сериалы" tvg-id="mir-seriala",Мир сериала
+#EXTINF: -1 tv-number="146" group-title="Кино и сериалы" tvg-id="mir-seriala",Мир сериала
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRSERIALA/variant.m3u8
 #EXTINF: -1 ch-number="147" group-title="Кино и сериалы" tvg-id="siestahd",Сиеста HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://langamepp.com/chtst/346E79777E42B7A7653E55BFE851F2F0065E4A474D77CB76E4EEED6F5D807321B6BEC91F1A19C5D20D5226E2
-#EXTINF: -1 tvg-chno="148" group-title="Кино и сериалы" tvg-id="trashtv",Trash
+#EXTINF: -1 tv-number="148" group-title="Кино и сериалы" tvg-id="trashtv",Trash
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TRASHHD/variant.m3u8
-#EXTINF: -1 tvg-chno="149" group-title="Кино и сериалы" tvg-id="blokbaster-hd",Блокбастер
+#EXTINF: -1 tv-number="149" group-title="Кино и сериалы" tvg-id="blokbaster-hd",Блокбастер
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BLOCKBUSTERHD/variant.m3u8
-#EXTINF: -1 tvg-chno="150" group-title="Кино и сериалы" tvg-id="kamedi",Камеди
+#EXTINF: -1 tv-number="150" group-title="Кино и сериалы" tvg-id="kamedi",Камеди
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYHD/variant.m3u8
-#EXTINF: -1 tvg-chno="151" group-title="Кино и сериалы" tvg-id="kinopokaz-hd",Кинопоказ
+#EXTINF: -1 tv-number="151" group-title="Кино и сериалы" tvg-id="kinopokaz-hd",Кинопоказ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPOKAZHD/variant.m3u8
-#EXTINF: -1 tvg-chno="152" group-title="Кино и сериалы" tvg-id="nash-kinopokaz-hd",Наш Кинопоказ
+#EXTINF: -1 tv-number="152" group-title="Кино и сериалы" tvg-id="nash-kinopokaz-hd",Наш Кинопоказ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHKINOPOKAZHD/variant.m3u8
-#EXTINF: -1 tvg-chno="153" group-title="Кино и сериалы" tvg-id="nashe-muzhskoe-hd",Наше Мужское
+#EXTINF: -1 tv-number="153" group-title="Кино и сериалы" tvg-id="nashe-muzhskoe-hd",Наше Мужское
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHEMUZHSKOEHD/variant.m3u8
-#EXTINF: -1 tvg-chno="154" group-title="Кино и сериалы" tvg-id="pro-lyubov",Про любовь
+#EXTINF: -1 tv-number="154" group-title="Кино и сериалы" tvg-id="pro-lyubov",Про любовь
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PROLUBOVHD/variant.m3u8
-#EXTINF: -1 tvg-chno="155" group-title="Кино и сериалы" tvg-id="khit-hd",Хит
+#EXTINF: -1 tv-number="155" group-title="Кино и сериалы" tvg-id="khit-hd",Хит
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_HITHD/variant.m3u8
-#EXTINF: -1 tvg-chno="200" group-title="Познавательные" tvg-id="history-ru",History HD
+#EXTINF: -1 tv-number="200" group-title="Познавательные" tvg-id="history-ru",History HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDHISTORY/variant.m3u8
-#EXTINF: -1 tvg-chno="201" group-title="Познавательные" tvg-id="travel-channel",Travel Channel
+#EXTINF: -1 tv-number="201" group-title="Познавательные" tvg-id="travel-channel",Travel Channel
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TRAVELCHANNELHD/variant.m3u8
-#EXTINF: -1 tvg-chno="202" group-title="Познавательные" tvg-id="national-geographic",National Geographic
+#EXTINF: -1 tv-number="202" group-title="Познавательные" tvg-id="national-geographic",National Geographic
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NATGEO/variant.m3u8
-#EXTINF: -1 tvg-chno="203" group-title="Познавательные" tvg-id="viasat-explore",Viasat Explore HD
+#EXTINF: -1 tv-number="203" group-title="Познавательные" tvg-id="viasat-explore",Viasat Explore HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATEXPLOREHD/variant.m3u8
-#EXTINF: -1 tvg-chno="204" group-title="Познавательные" tvg-id="viasat-history",Viasat History HD
+#EXTINF: -1 tv-number="204" group-title="Познавательные" tvg-id="viasat-history",Viasat History HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATHISTORYHD/variant.m3u8
-#EXTINF: -1 tvg-chno="205" group-title="Мужские" tvg-id="texno-24",Т24
+#EXTINF: -1 tv-number="205" group-title="Развлекательные" tvg-id="texno-24",Т24
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_24TEHNO/variant.m3u8
-#EXTINF: -1 tvg-chno="206" group-title="Познавательные" tvg-id="moya-planeta",Моя Планета
+#EXTINF: -1 tv-number="206" group-title="Познавательные" tvg-id="moya-planeta",Моя Планета
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MYPLANET/variant.m3u8
-#EXTINF: -1 tvg-chno="207" group-title="Познавательные" tvg-id="discovery-channel",Discovery channel
+#EXTINF: -1 tv-number="207" group-title="Познавательные" tvg-id="discovery-channel",Discovery channel
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISCOVERYCHANNEL/variant.m3u8
-#EXTINF: -1 tvg-chno="208" group-title="Познавательные" tvg-id="animal-planet",Animal Planet
+#EXTINF: -1 tv-number="208" group-title="Познавательные" tvg-id="animal-planet",Animal Planet
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ANIMALPLANET/variant.m3u8
-#EXTINF: -1 tvg-chno="209" group-title="Мужские" tvg-id="dialogi-o-rybalke",Диалоги о рыбалке
+#EXTINF: -1 tv-number="209" group-title="Развлекательные" tvg-id="dialogi-o-rybalke",Диалоги о рыбалке
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DIALORYBHD/variant.m3u8
-#EXTINF: -1 tvg-chno="210" group-title="Познавательные" tvg-id="vremia",Время: далекое и близкое
+#EXTINF: -1 tv-number="210" group-title="Познавательные" tvg-id="vremia",Время: далекое и близкое
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VREMYADIB/variant.m3u8
-#EXTINF: -1 tvg-chno="211" group-title="Кулинарные" tvg-id="telekafe",ТЕЛЕКАФЕ
+#EXTINF: -1 tv-number="211" group-title="Познавательные" tvg-id="telekafe",ТЕЛЕКАФЕ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TELEKAFE/variant.m3u8
-#EXTINF: -1 tvg-chno="212" group-title="Познавательные" tvg-id="poexali",ПОЕХАЛИ!
+#EXTINF: -1 tv-number="212" group-title="Познавательные" tvg-id="poexali",ПОЕХАЛИ!
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_POEHALIHD/variant.m3u8
-#EXTINF: -1 tvg-chno="213" group-title="Познавательные" tvg-id="nauka-20",Наука
+#EXTINF: -1 tv-number="213" group-title="Познавательные" tvg-id="nauka-20",Наука
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NAUKA20/variant.m3u8
-#EXTINF: -1 tvg-chno="214" group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild
+#EXTINF: -1 tv-number="214" group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NATGEOWILD/variant.m3u8
-#EXTINF: -1 tvg-chno="215" group-title="Мужские" tvg-id="oxota-i-rybalka",Охота и рыбалка
+#EXTINF: -1 tv-number="215" group-title="Развлекательные" tvg-id="oxota-i-rybalka",Охота и рыбалка
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OHOTAIRYBALKS/variant.m3u8
-#EXTINF: -1 tvg-chno="216" group-title="Познавательные" tvg-id="zagorodnaya-zhizn",Загородная жизнь HD
+#EXTINF: -1 tv-number="216" group-title="Познавательные" tvg-id="zagorodnaya-zhizn",Загородная жизнь HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZAGORODNAYAZHIZNHD/variant.m3u8
-#EXTINF: -1 tvg-chno="217" group-title="Кулинарные" tvg-id="food-network",Food Network HD
+#EXTINF: -1 tv-number="217" group-title="Познавательные" tvg-id="food-network",Food Network HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOODHD/variant.m3u8
-#EXTINF: -1 tvg-chno="218" group-title="Кулинарные" tvg-id="eda",Еда
+#EXTINF: -1 tv-number="218" group-title="Познавательные" tvg-id="eda",Еда
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EDA/variant.m3u8
-#EXTINF: -1 tvg-chno="219" group-title="Познавательные" tvg-id="zdorovoe-tv",Здоровое ТВ
+#EXTINF: -1 tv-number="219" group-title="Познавательные" tvg-id="zdorovoe-tv",Здоровое ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZDOROVOETV/variant.m3u8
-#EXTINF: -1 tvg-chno="220" group-title="Образовательные" tvg-id="english-club-tv",English Club HD
+#EXTINF: -1 tv-number="220" group-title="Образовательные" tvg-id="english-club-tv",English Club HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ENGLISHCLUBHD/variant.m3u8
-#EXTINF: -1 tvg-chno="221" group-title="Познавательные" tvg-id="ratnik",Ратник
+#EXTINF: -1 tv-number="221" group-title="Познавательные" tvg-id="ratnik",Ратник
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RATNIKHD/variant.m3u8
-#EXTINF: -1 tvg-chno="222" group-title="Познавательные" tvg-id="dtx",DTX HD
+#EXTINF: -1 tv-number="222" group-title="Познавательные" tvg-id="dtx",DTX HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DTXHD/variant.m3u8
-#EXTINF: -1 tvg-chno="223" group-title="Познавательные" tvg-id="discovery-science",Discovery Science HD
+#EXTINF: -1 tv-number="223" group-title="Познавательные" tvg-id="discovery-science",Discovery Science HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8
-#EXTINF: -1 tvg-chno="224" group-title="Познавательные" tvg-id="zhivaya-planeta",Живая Планета
+#EXTINF: -1 tv-number="224" group-title="Познавательные" tvg-id="zhivaya-planeta",Живая Планета
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_JIVAYAPLANETA/variant.m3u8
-#EXTINF: -1 tvg-chno="225" group-title="Познавательные" tvg-id="h2",HISTORY2 HD
+#EXTINF: -1 tv-number="225" group-title="Познавательные" tvg-id="h2",HISTORY2 HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_H2HD/variant.m3u8
-#EXTINF: -1 tvg-chno="226" group-title="Мужские" tvg-id="muzhskoy",Мужской
+#EXTINF: -1 tv-number="226" group-title="Развлекательные" tvg-id="muzhskoy",Мужской
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZHSKOY/variant.m3u8
-#EXTINF: -1 tvg-chno="227" group-title="Познавательные" tvg-id="id-xtra-ru",ID
+#EXTINF: -1 tv-number="227" group-title="Познавательные" tvg-id="id-xtra-ru",ID
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8
-#EXTINF: -1 tvg-chno="228" group-title="Познавательные" tvg-id="morskoy",Морской HD
+#EXTINF: -1 tv-number="228" group-title="Познавательные" tvg-id="morskoy",Морской HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MORSKOYHD/variant.m3u8
-#EXTINF: -1 tvg-chno="229" group-title="Образовательные" tvg-id="prosveschenie",Просвещение
+#EXTINF: -1 tv-number="229" group-title="Образовательные" tvg-id="prosveschenie",Просвещение
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PROSVESCHENIE/variant.m3u8
-#EXTINF: -1 tvg-chno="230" group-title="Познавательные" tvg-id="viasat-nature-cee",Viasat Nature HD
+#EXTINF: -1 tv-number="230" group-title="Познавательные" tvg-id="viasat-nature-cee",Viasat Nature HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATNATUREHD/variant.m3u8
-#EXTINF: -1 tvg-chno="231" group-title="Познавательные" tvg-id="doktor",Доктор
+#EXTINF: -1 tv-number="231" group-title="Познавательные" tvg-id="doktor",Доктор
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_24DOC/variant.m3u8
-#EXTINF: -1 tvg-chno="232" group-title="Познавательные" tvg-id="zoopark",ZooПарк
+#EXTINF: -1 tv-number="232" group-title="Познавательные" tvg-id="zoopark",ZooПарк
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZOOPARK/variant.m3u8
-#EXTINF: -1 tvg-chno="233" group-title="Познавательные" tvg-id="ocean-tv",Ocean-TV
+#EXTINF: -1 tv-number="233" group-title="Познавательные" tvg-id="ocean-tv",Ocean-TV
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OCEANTV/variant.m3u8
-#EXTINF: -1 tvg-chno="234" group-title="Кулинарные" tvg-id="pervy-vegetariansky",Первый Вегетарианский HD
+#EXTINF: -1 tv-number="234" group-title="Познавательные" tvg-id="pervy-vegetariansky",Первый Вегетарианский HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERVYJVEGETARIANSKIJHD/variant.m3u8
-#EXTINF: -1 tvg-chno="235" group-title="Кулинарные" tvg-id="kuxnia-tv",Кухня ТВ
+#EXTINF: -1 tv-number="235" group-title="Познавательные" tvg-id="kuxnia-tv",Кухня ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KUHNYA/variant.m3u8
-#EXTINF: -1 tvg-chno="236" group-title="Познавательные" tvg-id="sovsek",Совершенно секретно
+#EXTINF: -1 tv-number="236" group-title="Познавательные" tvg-id="sovsek",Совершенно секретно
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SOVSEKRETNO/variant.m3u8
-#EXTINF: -1 tvg-chno="238" group-title="Познавательные" tvg-id="nostalgia",Ностальгия
+#EXTINF: -1 tv-number="238" group-title="Познавательные" tvg-id="nostalgia",Ностальгия
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NOSTALGIYA/variant.m3u8
-#EXTINF: -1 tvg-chno="239" group-title="Мужские" tvg-id="dikiy",Дикий
+#EXTINF: -1 tv-number="239" group-title="Развлекательные" tvg-id="dikiy",Дикий
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKIY/variant.m3u8
-#EXTINF: -1 tvg-chno="240" group-title="Познавательные" tvg-id="istoria",История
+#EXTINF: -1 tv-number="240" group-title="Познавательные" tvg-id="istoria",История
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ISTORIYA/variant.m3u8
-#EXTINF: -1 tvg-chno="241" group-title="Познавательные" tvg-id="kluch",Ключ
+#EXTINF: -1 tv-number="241" group-title="Познавательные" tvg-id="kluch",Ключ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KEY/variant.m3u8
-#EXTINF: -1 tvg-chno="242" group-title="Мужские" tvg-id="oruzhie",Оружие
+#EXTINF: -1 tv-number="242" group-title="Развлекательные" tvg-id="oruzhie",Оружие
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_WEAPON/variant.m3u8
-#EXTINF: -1 tvg-chno="244" group-title="Познавательные" tvg-id="tayny-galaktiki",Тайны Галактики
+#EXTINF: -1 tv-number="244" group-title="Познавательные" tvg-id="tayny-galaktiki",Тайны Галактики
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TAINYGALAKTIKIHD/variant.m3u8
 #EXTINF: -1 ch-number="245" group-title="Познавательные" tvg-id="nano-tv",Нано
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://mhd.iptv2022.com/p/pz8_wicZiBC1V3Pto0oJag,1609604820/streaming/nano/324/variable.m3u8
-#EXTINF: -1 tvg-chno="246" group-title="Национальные" tvg-id="kazakh-tv",Kazakh TV
+#EXTINF: -1 tv-number="246" group-title="Национальные" tvg-id="kazakh-tv",Kazakh TV
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KAZAHHD/variant.m3u8
-#EXTINF: -1 tvg-chno="247" group-title="Познавательные" tvg-id="zhivaya-priroda",Живая природа
+#EXTINF: -1 tv-number="247" group-title="Познавательные" tvg-id="zhivaya-priroda",Живая природа
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZHIVAYAPRIRODAHD/variant.m3u8
-#EXTINF: -1 tvg-chno="248" group-title="Познавательные" tvg-id="glazami-turista",Глазами туриста
+#EXTINF: -1 tv-number="248" group-title="Познавательные" tvg-id="glazami-turista",Глазами туриста
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTAHD/variant.m3u8
-#EXTINF: -1 tvg-chno="249" group-title="Познавательные" tvg-id="tv-brics",TV BRICS
+#EXTINF: -1 tv-number="249" group-title="Познавательные" tvg-id="tv-brics",TV BRICS
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BRICSTV/variant.m3u8
-#EXTINF: -1 tvg-chno="250" group-title="Познавательные" tvg-id="mir-uvlecheniy",#Кто куда
+#EXTINF: -1 tv-number="250" group-title="Познавательные" tvg-id="mir-uvlecheniy",#Кто куда
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KTOKUDA/variant.m3u8
-#EXTINF: -1 tvg-chno="251" group-title="Познавательные" tvg-id="arsenaltv",Арсенал
+#EXTINF: -1 tv-number="251" group-title="Познавательные" tvg-id="arsenaltv",Арсенал
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ARSENALHD/variant.m3u8
-#EXTINF: -1 tvg-chno="301" group-title="Детские" tvg-id="nickelodeon-ru",Nickelodeon
+#EXTINF: -1 tv-number="301" group-title="Детские" tvg-id="nickelodeon-ru",Nickelodeon
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NICKELODEON/variant.m3u8
-#EXTINF: -1 tvg-chno="302" group-title="Детские" tvg-id="disney-pl2",Канал Disney
+#EXTINF: -1 tv-number="302" group-title="Детские" tvg-id="disney",Канал Disney
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?version=2
-#EXTINF: -1 tvg-chno="303" group-title="Детские" tvg-id="mult",Мульт
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8 
+#EXTINF: -1 tv-number="303" group-title="Детские" tvg-id="mult",Мульт
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MULT/variant.m3u8
-#EXTINF: -1 tvg-chno="304" group-title="Детские" tvg-id="detsky",Уникум
+#EXTINF: -1 tv-number="304" group-title="Детские" tvg-id="detsky",Уникум
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJ/variant.m3u8
-#EXTINF: -1 tvg-chno="305" group-title="Детские" tvg-id="radost-moya",Радость Моя
+#EXTINF: -1 tv-number="305" group-title="Детские" tvg-id="radost-moya",Радость Моя
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RADOSTMOYA/variant.m3u8
-#EXTINF: -1 tvg-chno="306" group-title="Детские" tvg-id="tiji",Tiji
+#EXTINF: -1 tv-number="306" group-title="Детские" tvg-id="tiji",Tiji
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TIJI/variant.m3u8
-#EXTINF: -1 tvg-chno="307" group-title="Детские" tvg-id="cartoon-network",Cartoon Network HD
+#EXTINF: -1 tv-number="307" group-title="Детские" tvg-id="cartoon-network",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CARTOON_NETWORKSHD/variant.m3u8
-#EXTINF: -1 tvg-chno="308" group-title="Женские" tvg-id="mama",Мама
+#EXTINF: -1 tv-number="308" group-title="Развлекательные" tvg-id="mama",Мама
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATIDITYA/variant.m3u8
-#EXTINF: -1 tvg-chno="309" group-title="Детские" tvg-id="detsky-mir",Детский Мир
+#EXTINF: -1 tv-number="309" group-title="Детские" tvg-id="detsky-mir",Детский Мир
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJMIR/variant.m3u8
-#EXTINF: -1 tvg-chno="310" group-title="Детские" tvg-id="multimuzyka",Мультимузыка
+#EXTINF: -1 tv-number="310" group-title="Детские" tvg-id="multimuzyka",Мультимузыка
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STRANA/variant.m3u8
-#EXTINF: -1 tvg-chno="311" group-title="Детские" tvg-id="jimjam",JimJam
+#EXTINF: -1 tv-number="311" group-title="Детские" tvg-id="jimjam",JimJam
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_JIMJAM/variant.m3u8
-#EXTINF: -1 tvg-chno="312" group-title="Детские" tvg-id="gulli-girl",Gulli Girl
+#EXTINF: -1 tv-number="312" group-title="Детские" tvg-id="gulli-girl",Gulli Girl
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_GULLI/variant.m3u8
-#EXTINF: -1 tvg-chno="313" group-title="Детские" tvg-id="nick-jr",Nick Jr.
+#EXTINF: -1 tv-number="313" group-title="Детские" tvg-id="nick-jr",Nick Jr.
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NICKJUNIOR/variant.m3u8
-#EXTINF: -1 tvg-chno="314" group-title="Детские" tvg-id="baby-tv",Baby TV
+#EXTINF: -1 tv-number="314" group-title="Детские" tvg-id="baby-tv",Baby TV
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BABYTV/variant.m3u8
-#EXTINF: -1 tvg-chno="315" group-title="Детские" tvg-id="boomerang",Boomerang
+#EXTINF: -1 tv-number="315" group-title="Детские" tvg-id="boomerang",Boomerang
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BOOMERANG/variant.m3u8
-#EXTINF: -1 tvg-chno="316" group-title="Детские" tvg-id="o_",О!
+#EXTINF: -1 tv-number="316" group-title="Детские" tvg-id="o_",О!
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_O/variant.m3u8
-#EXTINF: -1 tvg-chno="317" group-title="Детские" tvg-id="v-gostiax-u-skazki",В гостях у сказки
+#EXTINF: -1 tv-number="317" group-title="Детские" tvg-id="v-gostiax-u-skazki",В гостях у сказки
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VGOSTYAHUSKAZKI/variant.m3u8
-#EXTINF: -1 tvg-chno="318" group-title="Образовательные" tvg-id="da-vinci",Da Vinci
+#EXTINF: -1 tv-number="318" group-title="Образовательные" tvg-id="da-vinci",Da Vinci
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DAVINCILEARNING/variant.m3u8
-#EXTINF: -1 tvg-chno="319" group-title="Детские" tvg-id="malysh",Малыш ТВ
+#EXTINF: -1 tv-number="319" group-title="Детские" tvg-id="malysh",Малыш ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MALYSHTV/variant.m3u8
-#EXTINF: -1 tvg-chno="320" group-title="Детские" tvg-id="multimania",Мультиландия
+#EXTINF: -1 tv-number="320" group-title="Детские" tvg-id="multimania",Мультиландия
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MULTIMANIA/variant.m3u8
-#EXTINF: -1 tvg-chno="321" group-title="Детские" tvg-id="ani",Ani
+#EXTINF: -1 tv-number="321" group-title="Детские" tvg-id="ani",Ani
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ANI/variant.m3u8
-#EXTINF: -1 tvg-chno="322" group-title="Детские" tvg-id="smaylik-tv",Смайлик
+#EXTINF: -1 tv-number="322" group-title="Детские" tvg-id="smaylik-tv",Смайлик
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF: -1 tvg-chno="333" group-title="Детские" tvg-id="sts-kids-hd",СТС Kids HD
+#EXTINF: -1 tv-number="333" group-title="Детские" tvg-id="sts-kids-hd",СТС Kids HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/variant.m3u8
-#EXTINF: -1 tvg-chno="400" group-title="Женские" tvg-id="tlc",TLC
+#EXTINF: -1 tv-number="400" group-title="Развлекательные" tvg-id="tlc",TLC
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TLC/variant.m3u8
-#EXTINF: -1 tvg-chno="401" group-title="Развлекательные" tvg-id="bobior",Бобёр
+#EXTINF: -1 tv-number="401" group-title="Развлекательные" tvg-id="bobior",Бобёр
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BOBER/variant.m3u8
-#EXTINF: -1 tvg-chno="402" group-title="Развлекательные" tvg-id="kvn-tv",КВН ТВ
+#EXTINF: -1 tv-number="402" group-title="Развлекательные" tvg-id="kvn-tv",КВН ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KVN/variant.m3u8
-#EXTINF: -1 tvg-chno="403" group-title="Женские" tvg-id="world-fashion-channel",WORLD FASHION CHANNEL HD
+#EXTINF: -1 tv-number="403" group-title="Развлекательные" tvg-id="world-fashion-channel",WORLD FASHION CHANNEL HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_WFCHD/variant.m3u8
-#EXTINF: -1 tvg-chno="404" group-title="Развлекательные" tvg-id="sarafan",Сарафан
+#EXTINF: -1 tv-number="404" group-title="Развлекательные" tvg-id="sarafan",Сарафан
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_SARAFAN/variant.m3u8
-#EXTINF: -1 tvg-chno="405" group-title="Развлекательные" tvg-id="anekdottv",Анекдот ТВ
+#EXTINF: -1 tv-number="405" group-title="Развлекательные" tvg-id="anekdottv",Анекдот ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/variant.m3u8
-#EXTINF: -1 tvg-chno="406" group-title="Федеральные" tvg-id="2na2-pl2",2х2
+#EXTINF: -1 tv-number="406" group-title="Федеральные" tvg-id="2na2-pl2",2х2
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-#EXTINF: -1 tvg-chno="407" group-title="Национальные" tvg-id="tv5-monde",TV5 Monde HD
+#EXTINF: -1 tv-number="407" group-title="Национальные" tvg-id="tv5-monde",TV5 Monde HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV5MONDEHD/variant.m3u8
-#EXTINF: -1 tvg-chno="408" group-title="Федеральные" tvg-id="tnt4-pl2",ТНТ4
+#EXTINF: -1 tv-number="408" group-title="Федеральные" tvg-id="tnt4-pl2",ТНТ4
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
-#EXTINF: -1 tvg-chno="409" group-title="Музыкальные" tvg-id="zhara",ЖАРА HD
+#EXTINF: -1 tv-number="409" group-title="Музыкальные" tvg-id="zhara",ЖАРА HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_JARAHD/variant.m3u8
-#EXTINF: -1 tvg-chno="410" group-title="Музыкальные" tvg-id="mtv-russia",MTV HD
+#EXTINF: -1 tv-number="410" group-title="Музыкальные" tvg-id="mtv-russia",MTV HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MTVHD/variant.m3u8
-#EXTINF: -1 tvg-chno="411" group-title="Женские" tvg-id="hgtv",HGTV HD
+#EXTINF: -1 tv-number="411" group-title="Развлекательные" tvg-id="hgtv",HGTV HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_HGTVHD/variant.m3u8
-#EXTINF: -1 tvg-chno="412" group-title="Музыкальные" tvg-id="vostok-tv",Восток ТВ
+#EXTINF: -1 tv-number="412" group-title="Музыкальные" tvg-id="vostok-tv",Восток ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VOSTOKTV/variant.m3u8
-#EXTINF: -1 tvg-chno="413" group-title="Музыкальные" tvg-id="o2tv",О2TV
+#EXTINF: -1 tv-number="413" group-title="Музыкальные" tvg-id="o2tv",О2TV
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_O2TVHD/variant.m3u8
-#EXTINF: -1 tvg-chno="414" group-title="Музыкальные" tvg-id="zhar-ptica",Жар Птица
+#EXTINF: -1 tv-number="414" group-title="Музыкальные" tvg-id="zhar-ptica",Жар Птица
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_JARPTIZA/variant.m3u8
-#EXTINF: -1 tvg-chno="415" group-title="Развлекательные" tvg-id="kaleydoskop-tv",Калейдоскоп ТВ
+#EXTINF: -1 tv-number="415" group-title="Развлекательные" tvg-id="kaleydoskop-tv",Калейдоскоп ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KALEJDOSKOPTV/variant.m3u8
-#EXTINF: -1 tvg-chno="416" group-title="Развлекательные" tvg-id="tnomer",ТНОМЕР
+#EXTINF: -1 tv-number="416" group-title="Развлекательные" tvg-id="tnomer",ТНОМЕР
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNOMER/variant.m3u8
-#EXTINF: -1 tvg-chno="417" group-title="Развлекательные" tvg-id="teatr",Театр
+#EXTINF: -1 tv-number="417" group-title="Развлекательные" tvg-id="teatr",Театр
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_THEATERHD/variant.m3u8
-#EXTINF: -1 tvg-chno="418" group-title="Развлекательные" tvg-id="zal-suda",Зал суда
+#EXTINF: -1 tv-number="418" group-title="Развлекательные" tvg-id="zal-suda",Зал суда
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/variant.m3u8
-#EXTINF: -1 tvg-chno="419" group-title="Развлекательные" tvg-id="gags-network",Gagsnetwork
+#EXTINF: -1 tv-number="419" group-title="Развлекательные" tvg-id="gags-network",Gagsnetwork
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/variant.m3u8
-#EXTINF: -1 tvg-chno="420" group-title="Познавательные" tvg-id="zhivi",ЖИВИ!
+#EXTINF: -1 tv-number="420" group-title="Познавательные" tvg-id="zhivi",ЖИВИ!
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZHIVIHD/variant.m3u8
-#EXTINF: -1 tvg-chno="421" group-title="Мужские" tvg-id="tochka-otryva",Точка отрыва
+#EXTINF: -1 tv-number="421" group-title="Развлекательные" tvg-id="tochka-otryva",Точка отрыва
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TOCHKAOTRYVA/variant.m3u8
-#EXTINF: -1 tvg-chno="422" group-title="Развлекательные" tvg-id="trace-sport-stars",Trace Sport Stars HD
+#EXTINF: -1 tv-number="422" group-title="Развлекательные" tvg-id="trace-sport-stars",Trace Sport Stars HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TRACESPORTSHD/variant.m3u8
-#EXTINF: -1 tvg-chno="423" group-title="Познавательные" tvg-id="centralnoye-tv",Центральное телевидение
+#EXTINF: -1 tv-number="423" group-title="Познавательные" tvg-id="centralnoye-tv",Центральное телевидение
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CENTRALTV/variant.m3u8
-#EXTINF: -1 tvg-chno="424" group-title="Кино и сериалы" tvg-id="okino",О, кино!
+#EXTINF: -1 tv-number="424" group-title="Кино и сериалы" tvg-id="okino",О, кино!
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OKINO/variant.m3u8
-#EXTINF: -1 tvg-chno="501" group-title="Музыкальные" tvg-id="tnt-music",ТНТ MUSIC
+#EXTINF: -1 tv-number="501" group-title="Музыкальные" tvg-id="tnt-music",ТНТ MUSIC
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_AONE/variant.m3u8
-#EXTINF: -1 tvg-chno="502" group-title="Музыкальные" tvg-id="russian-musicbox",Music Box Russia
+#EXTINF: -1 tv-number="502" group-title="Музыкальные" tvg-id="russian-musicbox",Music Box Russia
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAN_MUSICBOXHD/variant.m3u8
-#EXTINF: -1 tvg-chno="503" group-title="Музыкальные" tvg-id="musicbox",Music Box Gold
+#EXTINF: -1 tv-number="503" group-title="Музыкальные" tvg-id="musicbox",Music Box Gold
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUSICBOXTV/variant.m3u8
-#EXTINF: -1 tvg-chno="504" group-title="Музыкальные" tvg-id="clubbing-tv",Clubbing TV HD
+#EXTINF: -1 tv-number="504" group-title="Музыкальные" tvg-id="clubbing-tv",Clubbing TV HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CLUBBINGHD/variant.m3u8
-#EXTINF: -1 tvg-chno="505" group-title="Музыкальные" tvg-id="ru-tv",RU.TV HD
+#EXTINF: -1 tv-number="505" group-title="Музыкальные" tvg-id="ru-tv",RU.TV HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUTVHD/variant.m3u8
-#EXTINF: -1 tvg-chno="506" group-title="Музыкальные" tvg-id="shanson-tv",Шансон-ТВ
+#EXTINF: -1 tv-number="506" group-title="Музыкальные" tvg-id="shanson-tv",Шансон-ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANSONTV/variant.m3u8
-#EXTINF: -1 tvg-chno="507" group-title="Музыкальные" tvg-id="la-minor",Ля-минор
+#EXTINF: -1 tv-number="507" group-title="Музыкальные" tvg-id="la-minor",Ля-минор
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_AMOLL/variant.m3u8
-#EXTINF: -1 tvg-chno="508" group-title="Музыкальные" tvg-id="vh1-european",VH1 European
+#EXTINF: -1 tv-number="508" group-title="Музыкальные" tvg-id="vh1-european",VH1 European
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VH1EUROPEAN/variant.m3u8
-#EXTINF: -1 tvg-chno="509" group-title="Музыкальные" tvg-id="mcm-top",MCM TOP
+#EXTINF: -1 tv-number="509" group-title="Музыкальные" tvg-id="mcm-top",MCM TOP
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MCMTOP/variant.m3u8
-#EXTINF: -1 tvg-chno="510" group-title="Музыкальные" tvg-id="bridge-tv",Bridge TV
+#EXTINF: -1 tv-number="510" group-title="Музыкальные" tvg-id="bridge-tv",Bridge TV
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETV/variant.m3u8
-#EXTINF: -1 tvg-chno="511" group-title="Музыкальные" tvg-id="europa-plus-tv",Европа Плюс ТВ
+#EXTINF: -1 tv-number="511" group-title="Музыкальные" tvg-id="europa-plus-tv",Европа Плюс ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROPAPLUSTV/variant.m3u8
-#EXTINF: -1 tvg-chno="512" group-title="Музыкальные" tvg-id="mtv-dance",Club MTV
+#EXTINF: -1 tv-number="512" group-title="Музыкальные" tvg-id="mtv-dance",Club MTV
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MTVDANCE/variant.m3u8
-#EXTINF: -1 tvg-chno="513" group-title="Музыкальные" tvg-id="mtv-hits",MTV Hits
+#EXTINF: -1 tv-number="513" group-title="Музыкальные" tvg-id="mtv-hits",MTV Hits
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MTVHITS/variant.m3u8
-#EXTINF: -1 tvg-chno="514" group-title="Музыкальные" tvg-id="mtv-rocks",MTV 90s
+#EXTINF: -1 tv-number="514" group-title="Музыкальные" tvg-id="mtv-rocks",MTV 90s
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MTVROCKS/variant.m3u8
-#EXTINF: -1 tvg-chno="515" group-title="Музыкальные" tvg-id="vh1-classic",MTV 80s
+#EXTINF: -1 tv-number="515" group-title="Музыкальные" tvg-id="vh1-classic",MTV 80s
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VH1CLASSIC/variant.m3u8
-#EXTINF: -1 tvg-chno="516" group-title="Музыкальные" tvg-id="mezzo",Mezzo
+#EXTINF: -1 tv-number="516" group-title="Музыкальные" tvg-id="mezzo",Mezzo
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MEZZO/variant.m3u8
-#EXTINF: -1 tvg-chno="517" group-title="Музыкальные" tvg-id="bridge-tv-ruxit",BRIDGE TV РУССКИЙ ХИТ
+#EXTINF: -1 tv-number="517" group-title="Музыкальные" tvg-id="bridge-tv-ruxit",BRIDGE TV РУССКИЙ ХИТ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSONGTV/variant.m3u8
-#EXTINF: -1 tvg-chno="519" group-title="Музыкальные" tvg-id="bridge-tv-dance",BRIDGE TV HITS
+#EXTINF: -1 tv-number="519" group-title="Музыкальные" tvg-id="bridge-tv-dance",BRIDGE TV HITS
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVDANCE/variant.m3u8
-#EXTINF: -1 tvg-chno="520" group-title="Музыкальные" tvg-id="bridge-tv-classic",BRIDGE TV CLASSIC
+#EXTINF: -1 tv-number="520" group-title="Музыкальные" tvg-id="bridge-tv-classic",BRIDGE TV CLASSIC
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVCLASSIC/variant.m3u8
-#EXTINF: -1 tvg-chno="521" group-title="Музыкальные" tvg-id="bridge-hd",BRIDGE TV DELUXE
+#EXTINF: -1 tv-number="521" group-title="Музыкальные" tvg-id="bridge-hd",BRIDGE TV DELUXE
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGEHD/variant.m3u8
-#EXTINF: -1 tvg-chno="522" group-title="Музыкальные" tvg-id="1hd",1HD Music Television
+#EXTINF: -1 tv-number="522" group-title="Музыкальные" tvg-id="1hd",1HD Music Television
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1HDMUSICTV/variant.m3u8
-#EXTINF: -1 tvg-chno="523" group-title="Музыкальные" tvg-id="aiva",AIVA
+#EXTINF: -1 tv-number="523" group-title="Музыкальные" tvg-id="aiva",AIVA
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_AIVAHD/variant.m3u8
-#EXTINF: -1 tvg-chno="524" group-title="Музыкальные" tvg-id="muzyka-pervogo",Музыка Первого
+#EXTINF: -1 tv-number="524" group-title="Музыкальные" tvg-id="muzyka-pervogo",Музыка Первого
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZYKAPERVOGO/variant.m3u8
-#EXTINF: -1 tvg-chno="525" group-title="Музыкальные" tvg-id="song-tv-ru",SONG TV HD Russia
+#EXTINF: -1 tv-number="525" group-title="Музыкальные" tvg-id="song-tv-ru",SONG TV HD Russia
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SONGTVRUSHD/variant.m3u8
-#EXTINF: -1 tvg-chno="526" group-title="Музыкальные" tvg-id="song-tv",SONG TV HD Armenia
+#EXTINF: -1 tv-number="526" group-title="Музыкальные" tvg-id="song-tv",SONG TV HD Armenia
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SONGTVARMHD/variant.m3u8
-#EXTINF: -1 tvg-chno="527" group-title="Музыкальные" tvg-id="bridge-tv-shlager",BRIDGE TV ШЛЯГЕР
+#EXTINF: -1 tv-number="527" group-title="Музыкальные" tvg-id="bridge-tv-shlager",BRIDGE TV ШЛЯГЕР
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVSHLYAGER/variant.m3u8
-#EXTINF: -1 tvg-chno="600" group-title="Спортивные" tvg-id="ufc",UFC ТВ
+#EXTINF: -1 tv-number="600" group-title="Спортивные" tvg-id="ufc",UFC ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8
-#EXTINF: -1 tvg-chno="601" group-title="Спортивные" tvg-id="eurosport1",Eurosport 1
+#EXTINF: -1 tv-number="601" group-title="Спортивные" tvg-id="eurosport1",Eurosport 1
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT/variant.m3u8
-#EXTINF: -1 tvg-chno="602" group-title="Спортивные" tvg-id="eurosport-gold",Eurosport Gold
+#EXTINF: -1 tv-number="602" group-title="Спортивные" tvg-id="eurosport-gold",Eurosport Gold
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT_G/variant.m3u8
-#EXTINF: -1 tvg-chno="603" group-title="Спортивные" tvg-id="kxl",КХЛ
+#EXTINF: -1 tv-number="603" group-title="Спортивные" tvg-id="kxl",КХЛ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KHL/variant.m3u8
-#EXTINF: -1 tvg-chno="604" group-title="Спортивные" tvg-id="match-boets",МАТЧ! БОЕЦ
+#EXTINF: -1 tv-number="604" group-title="Спортивные" tvg-id="match-boets",МАТЧ! БОЕЦ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BOETZ/variant.m3u8
-#EXTINF: -1 tvg-chno="605" group-title="Спортивные" tvg-id="match-arena",МАТЧ! АРЕНА HD
+#EXTINF: -1 tv-number="605" group-title="Спортивные" tvg-id="match-arena",МАТЧ! АРЕНА HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_SPORT1HD/variant.m3u8
-#EXTINF: -1 tvg-chno="606" group-title="Спортивные" tvg-id="viasat-sport",Viasat Sport
+#EXTINF: -1 tv-number="606" group-title="Спортивные" tvg-id="viasat-sport",Viasat Sport
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATSPORT/variant.m3u8
-#EXTINF: -1 tvg-chno="607" group-title="Спортивные" tvg-id="russky-ekstrim",Русский экстрим
+#EXTINF: -1 tv-number="607" group-title="Спортивные" tvg-id="russky-ekstrim",Русский экстрим
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREAM/variant.m3u8
-#EXTINF: -1 tvg-chno="608" group-title="Спортивные" tvg-id="match-premier",МАТЧ ПРЕМЬЕР
+#EXTINF: -1 tv-number="608" group-title="Спортивные" tvg-id="match-premier",МАТЧ ПРЕМЬЕР
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8
-#EXTINF: -1 tvg-chno="609" group-title="Спортивные" tvg-id="football-ru",Футбол HD
+#EXTINF: -1 tv-number="609" group-title="Спортивные" tvg-id="football-ru",Футбол HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALLHD/variant.m3u8
-#EXTINF: -1 tvg-chno="610" group-title="Спортивные" tvg-id="extreme-sports",Extreme Sports
+#EXTINF: -1 tv-number="610" group-title="Спортивные" tvg-id="extreme-sports",Extreme Sports
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EXTREMESPORTS/variant.m3u8
-#EXTINF: -1 tvg-chno="611" group-title="Спортивные" tvg-id="mir-basketbola",Мир Баскетбола
+#EXTINF: -1 tv-number="611" group-title="Спортивные" tvg-id="mir-basketbola",Мир Баскетбола
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRBASKETBOLA/variant.m3u8
-#EXTINF: -1 tvg-chno="612" group-title="Спортивные" tvg-id="match-nash-sport",МАТЧ! Страна
+#EXTINF: -1 tv-number="612" group-title="Спортивные" tvg-id="match-nash-sport",МАТЧ! Страна
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSPORT/variant.m3u8
-#EXTINF: -1 tvg-chno="613" group-title="Спортивные" tvg-id="eurosport2",Eurosport 2
+#EXTINF: -1 tv-number="613" group-title="Спортивные" tvg-id="eurosport2",Eurosport 2
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT2/variant.m3u8
-#EXTINF: -1 tvg-chno="614" group-title="Спортивные" tvg-id="golf-tv",Golf TV HD
+#EXTINF: -1 tv-number="614" group-title="Спортивные" tvg-id="golf-tv",Golf TV HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_GOLFTVHD/variant.m3u8
-#EXTINF: -1 tvg-chno="616" group-title="Спортивные" tvg-id="match-igra",МАТЧ! ИГРА HD
+#EXTINF: -1 tv-number="616" group-title="Спортивные" tvg-id="match-igra",МАТЧ! ИГРА HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHIGRAHD/variant.m3u8
-#EXTINF: -1 tvg-chno="617" group-title="Спортивные" tvg-id="motorsportv-tv",Моторспорт ТВ
+#EXTINF: -1 tv-number="617" group-title="Спортивные" tvg-id="motorsportv-tv",Моторспорт ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MOTOSPORTTV/variant.m3u8
-#EXTINF: -1 tvg-chno="618" group-title="Спортивные" tvg-id="start",Телеканал «СТАРТ»
+#EXTINF: -1 tv-number="618" group-title="Спортивные" tvg-id="start",Телеканал «СТАРТ»
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STARTHD/variant.m3u8
-#EXTINF: -1 tvg-chno="620" group-title="Мужские" tvg-id="avto-plus",Авто Плюс
+#EXTINF: -1 tv-number="620" group-title="Развлекательные" tvg-id="avto-plus",Авто Плюс
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_AUTOPLUS/variant.m3u8
-#EXTINF: -1 tvg-chno="621" group-title="Мужские" tvg-id="m1global",M-1 Global
+#EXTINF: -1 tv-number="621" group-title="Развлекательные" tvg-id="m1global",M-1 Global
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_M1GLOBAL/variant.m3u8
-#EXTINF: -1 tvg-chno="701" group-title="Религиозные" tvg-id="soyuz",Союз
+#EXTINF: -1 tv-number="701" group-title="Религиозные" tvg-id="soyuz",Союз
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SOYUZ/variant.m3u8
-#EXTINF: -1 tvg-chno="703" group-title="Национальные" tvg-id="tro",БелРос
+#EXTINF: -1 tv-number="703" group-title="Национальные" tvg-id="tro",БелРос
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TRO/variant.m3u8
-#EXTINF: -1 tvg-chno="704" group-title="Региональные" tvg-id="tnv-planeta",ТНВ-Планета
+#EXTINF: -1 tv-number="704" group-title="Региональные" tvg-id="tnv-planeta",ТНВ-Планета
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TNV_PLANETA_URAL/variant.m3u8
-#EXTINF: -1 tvg-chno="706" group-title="Национальные" tvg-id="belarus24",Беларусь 24
+#EXTINF: -1 tv-number="706" group-title="Национальные" tvg-id="belarus24",Беларусь 24
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BELARUS24/variant.m3u8
-#EXTINF: -1 tvg-chno="707" group-title="Региональные" tvg-id="bst",БСТ
+#EXTINF: -1 tv-number="707" group-title="Региональные" tvg-id="bst",БСТ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
-#EXTINF: -1 tvg-chno="713" group-title="Национальные" tvg-id="cctv4",CCTV-4
+#EXTINF: -1 tv-number="708" group-title="Национальные" tvg-id="no_epg_mult",Шант Kids HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTKIDSHD/variant.m3u8
+#EXTINF: -1 tv-number="709" group-title="Национальные" tvg-id="shant-premium-hd",Шант Premium HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTPREMIUMHD/variant.m3u8
+#EXTINF: -1 tv-number="710" group-title="Национальные" tvg-id="shant-news-hd",Шант News HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTNEWSHD/variant.m3u8
+#EXTINF: -1 tv-number="711" group-title="Национальные" tvg-id="shant-music-hd",Шант Music HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTMUSICHD/variant.m3u8
+#EXTINF: -1 tv-number="712" group-title="Национальные" tvg-id="shant-serial-hd",Шант Serial HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTSERIALHD/variant.m3u8
+#EXTINF: -1 tv-number="713" group-title="Национальные" tvg-id="cctv4",CCTV-4
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CCTV4/variant.m3u8
-#EXTINF: -1 tvg-chno="714" group-title="Национальные" tvg-id="cgtn",CGTN
+#EXTINF: -1 tv-number="714" group-title="Национальные" tvg-id="cgtn",CGTN
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CGTNENG/variant.m3u8
-#EXTINF: -1 tvg-chno="715" group-title="Национальные" tvg-id="cctv-ru",CGTN Russian
+#EXTINF: -1 tv-number="715" group-title="Национальные" tvg-id="cctv-ru",CGTN Russian
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CGTNRUS/variant.m3u8
-#EXTINF: -1 tvg-chno="750" group-title="Региональные" tvg-id="tv-in",ТВ-ИН- Магнитогорск
+#EXTINF: -1 tv-number="750" group-title="Региональные" tvg-id="tv-in",ТВ-ИН- Магнитогорск
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-#EXTINF: -1 tvg-chno="751" group-title="Региональные" tvg-id="31-kanal-chelyabinsk",Русская линия
+#EXTINF: -1 tv-number="751" group-title="Региональные" tvg-id="31-kanal-chelyabinsk",Русская линия
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
-#EXTINF: -1 tvg-chno="801" group-title="Эротические" tvg-id="russkaya-noch",Русская ночь
+#EXTINF: -1 tv-number="801" group-title="Эротические" tvg-id="russkaya-noch",Русская ночь
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANNIGHT/variant.m3u8
-#EXTINF: -1 tvg-chno="802" group-title="Эротические" tvg-id="shalun",Шалун HD
+#EXTINF: -1 tv-number="802" group-title="Эротические" tvg-id="shalun",Шалун HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SHALUNTVHD/variant.m3u8
-#EXTINF: -1 tvg-chno="803" group-title="Эротические" tvg-id="brazzers-tv-europe-ru",Brazzers TV Europe
+#EXTINF: -1 tv-number="803" group-title="Эротические" tvg-id="brazzers-tv-europe-ru",Brazzers TV Europe
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BRAZZERSTV/variant.m3u8
-#EXTINF: -1 tvg-chno="804" group-title="Эротические" tvg-id="babes-tv",Babes TV HD
+#EXTINF: -1 tv-number="804" group-title="Эротические" tvg-id="babes-tv",Babes TV HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BABESTVHD/variant.m3u8
-#EXTINF: -1 tvg-chno="806" group-title="Эротические" tvg-id="o-la-la",О-ля-ля
+#EXTINF: -1 tv-number="806" group-title="Эротические" tvg-id="o-la-la",О-ля-ля
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OLALA/variant.m3u8
-#EXTINF: -1 tvg-chno="807" group-title="Эротические" tvg-id="exxxotica",Exxxotica
+#EXTINF: -1 tv-number="807" group-title="Эротические" tvg-id="exxxotica",Exxxotica
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EXXXOTICAHD/variant.m3u8
-#EXTINF: -1 tvg-chno="874" group-title="Познавательные" tvg-id="travel-adventure",Travel and Adventure HD
+#EXTINF: -1 tv-number="874" group-title="Познавательные" tvg-id="travel-adventure",Travel and Adventure HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_TRAVELCHANNELHD/variant.m3u8
-#EXTINF: -1 tvg-chno="875" group-title="Мужские" tvg-id="avto24",Телеканал «АВТО24»
+#EXTINF: -1 tv-number="875" group-title="Развлекательные" tvg-id="avto24",Телеканал «АВТО24»
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_AVTO24HD/variant.m3u8
-#EXTINF: -1 tvg-chno="876" group-title="Познавательные" tvg-id="usadba",Усадьба ТВ
+#EXTINF: -1 tv-number="876" group-title="Познавательные" tvg-id="usadba",Усадьба ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_USADBA/variant.m3u8
-#EXTINF: -1 tvg-chno="892" group-title="Радио" tvg-id="no_epg_music",Радио Disney
+#EXTINF: -1 tv-number="892" group-title="Радио" tvg-id="no_epg_music",Радио Disney
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIODISNEY/variant.m3u8
-#EXTINF: -1 tvg-chno="893" group-title="Радио" tvg-id="radio-energy",Радио ENERGY
+#EXTINF: -1 tv-number="893" group-title="Радио" tvg-id="radio-energy",Радио ENERGY
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOENERGY/variant.m3u8
-#EXTINF: -1 tvg-chno="894" group-title="Радио" tvg-id="avtoradio",Авторадио
+#EXTINF: -1 tv-number="894" group-title="Радио" tvg-id="avtoradio",Авторадио
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOAUTORADIO/variant.m3u8
-#EXTINF: -1 tvg-chno="895" group-title="Радио" tvg-id="radio-romantika",Радио Romantika
+#EXTINF: -1 tv-number="895" group-title="Радио" tvg-id="radio-romantika",Радио Romantika
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOROMANTIKA/variant.m3u8
-#EXTINF: -1 tvg-chno="896" group-title="Радио" tvg-id="yumor-fm",Юмор FM
+#EXTINF: -1 tv-number="896" group-title="Радио" tvg-id="yumor-fm",Юмор FM
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOYUMORFM/variant.m3u8
-#EXTINF: -1 tvg-chno="897" group-title="Радио" tvg-id="no_epg_music",Relax FM
+#EXTINF: -1 tv-number="897" group-title="Радио" tvg-id="no_epg_music",Relax FM
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIORELAXFM/variant.m3u8
-#EXTINF: -1 tvg-chno="898" group-title="Радио" tvg-id="no_epg_music",Детское радио
+#EXTINF: -1 tv-number="898" group-title="Радио" tvg-id="no_epg_music",Детское радио
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIODETSKOE/variant.m3u8
-#EXTINF: -1 tvg-chno="899" group-title="Радио" tvg-id="comedy-radio",Comedy Radio
+#EXTINF: -1 tv-number="899" group-title="Радио" tvg-id="comedy-radio",Comedy Radio
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOCOMEDY/variant.m3u8
-#EXTINF: -1 tvg-chno="900" group-title="Эфирные" tvg-id="pervy",Первый канал HD
+#EXTINF: -1 tv-number="900" group-title="Эфирные" tvg-id="pervy",Первый канал HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8
-#EXTINF: -1 tvg-chno="901" group-title="Спортивные" tvg-id="eurosport1",Eurosport 1 HD
+#EXTINF: -1 tv-number="901" group-title="Спортивные" tvg-id="eurosport1",Eurosport 1 HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_EUROSPORTHD/variant.m3u8
-#EXTINF: -1 tvg-chno="902" group-title="Спортивные" tvg-id="match-tv",Матч ТВ HD
+#EXTINF: -1 tv-number="902" group-title="Спортивные" tvg-id="match-tv",Матч ТВ HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTVHD/variant.m3u8
-#EXTINF: -1 tvg-chno="904" group-title="Познавательные" tvg-id="national-geographic",National Geographic HD
+#EXTINF: -1 tv-number="904" group-title="Познавательные" tvg-id="national-geographic",National Geographic HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_NGCHD/variant.m3u8
-#EXTINF: -1 tvg-chno="905" group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild HD
+#EXTINF: -1 tv-number="905" group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_NATGEOWILDHD/variant.m3u8
-#EXTINF: -1 tvg-chno="906" group-title="Спортивные" tvg-id="eurosport2",Eurosport 2 HD
+#EXTINF: -1 tv-number="906" group-title="Спортивные" tvg-id="eurosport2",Eurosport 2 HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT2HD/variant.m3u8
-#EXTINF: -1 tvg-chno="907" group-title="Познавательные" tvg-id="myzen-tv",My Zen TV HD
+#EXTINF: -1 tv-number="907" group-title="Познавательные" tvg-id="myzen-tv",My Zen TV HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MYZENTVHD/variant.m3u8
-#EXTINF: -1 tvg-chno="908" group-title="Музыкальные" tvg-id="mtv-live-hd",MTV Live HD
+#EXTINF: -1 tv-number="908" group-title="Музыкальные" tvg-id="mtv-live-hd",MTV Live HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_MTVLIVEHD/variant.m3u8
-#EXTINF: -1 tvg-chno="909" group-title="Музыкальные" tvg-id="mezzo-live-hd",Mezzo Live HD
+#EXTINF: -1 tv-number="909" group-title="Музыкальные" tvg-id="mezzo-live-hd",Mezzo Live HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MEZZOLIVEHD/variant.m3u8
-#EXTINF: -1 tvg-chno="912" group-title="Спортивные" tvg-id="eurosport-gold",Eurosport Gold HD
+#EXTINF: -1 tv-number="912" group-title="Спортивные" tvg-id="eurosport-gold",Eurosport Gold HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT_GHD/variant.m3u8
-#EXTINF: -1 tvg-chno="913" group-title="Детские" tvg-id="nickelodeon-hd",Nickelodeon HD
+#EXTINF: -1 tv-number="913" group-title="Детские" tvg-id="nickelodeon-hd",Nickelodeon HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_NICKELODEONHD/variant.m3u8
-#EXTINF: -1 tvg-chno="916" group-title="Познавательные" tvg-id="discovery-channel",Discovery Channel HD
+#EXTINF: -1 tv-number="916" group-title="Познавательные" tvg-id="discovery-channel",Discovery Channel HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8
-#EXTINF: -1 tvg-chno="917" group-title="Познавательные" tvg-id="animal-planet",Animal Planet HD
+#EXTINF: -1 tv-number="917" group-title="Познавательные" tvg-id="animal-planet",Animal Planet HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_ANIMALPLANETHD/variant.m3u8
-#EXTINF: -1 tvg-chno="918" group-title="Кино и сериалы" tvg-id="vip-premiere",ViP Premiere
+#EXTINF: -1 tv-number="918" group-title="Кино и сериалы" tvg-id="vip-premiere",ViP Premiere
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8
-#EXTINF: -1 tvg-chno="919" group-title="Кино и сериалы" tvg-id="vip-megahit",ViP Megahit
+#EXTINF: -1 tv-number="919" group-title="Кино и сериалы" tvg-id="vip-megahit",ViP Megahit
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8
-#EXTINF: -1 tvg-chno="920" group-title="Кино и сериалы" tvg-id="vip-comedy",ViP Comedy
+#EXTINF: -1 tv-number="920" group-title="Кино и сериалы" tvg-id="vip-comedy",ViP Comedy
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000COMEDYHD/variant.m3u8
-#EXTINF: -1 tvg-chno="921" group-title="Кино и сериалы" tvg-id="vip-serial",ViP Serial
+#EXTINF: -1 tv-number="921" group-title="Кино и сериалы" tvg-id="vip-serial",ViP Serial
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/variant.m3u8
-#EXTINF: -1 tvg-chno="922" group-title="Эфирные" tvg-id="rossia1",Россия-1 HD
+#EXTINF: -1 tv-number="922" group-title="Эфирные" tvg-id="rossia1",Россия-1 HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_RUSSIA1HD/variant.m3u8
-#EXTINF: -1 tvg-chno="925" group-title="Спортивные" tvg-id="kxl-hd",КХЛ HD
+#EXTINF: -1 tv-number="925" group-title="Спортивные" tvg-id="kxl-hd",КХЛ HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_KHLHD/variant.m3u8
-#EXTINF: -1 tvg-chno="926" group-title="Кино и сериалы" tvg-id="strashnoe-hd",Страшное HD
+#EXTINF: -1 tv-number="926" group-title="Кино и сериалы" tvg-id="strashnoe-hd",Страшное HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_STRASHNOEHD/variant.m3u8
-#EXTINF: -1 tvg-chno="929" group-title="Кино и сериалы" tvg-id="amedia-hit",AMEDIA Hit
+#EXTINF: -1 num="928" group-title="" tvg-id="376017807",СТС HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://st.cdn-tv.club/iptv/K0RYUm9CWGh3VHZsdFFjem1pVXl5WjlMaldpSkVvY1FreU1kWjVva04wcz0/video.m3u8
+#EXTINF: -1 tv-number="929" group-title="Кино и сериалы" tvg-id="amedia-hit",AMEDIA Hit
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITHD/variant.m3u8
-#EXTINF: -1 tvg-chno="931" group-title="Кино и сериалы" tvg-id="amedia-premium",Amedia Premium
+#EXTINF: -1 tv-number="931" group-title="Кино и сериалы" tvg-id="amedia-premium",Amedia Premium
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8
-#EXTINF: -1 tvg-chno="932" group-title="Кино и сериалы" tvg-id="paramount-channel",Paramount Channel HD
+#EXTINF: -1 tv-number="932" group-title="Кино и сериалы" tvg-id="paramount-channel",Paramount Channel HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8
-#EXTINF: -1 tvg-chno="933" group-title="Познавательные" tvg-id="viasat-nature-history-hd",Viasat Nature HD/History HD
+#EXTINF: -1 tv-number="933" group-title="Познавательные" tvg-id="viasat-nature-history-hd",Viasat Nature HD/History HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8
-#EXTINF: -1 tvg-chno="934" group-title="Спортивные" tvg-id="viasat-sport",Viasat Sport HD
+#EXTINF: -1 tv-number="934" group-title="Спортивные" tvg-id="viasat-sport",Viasat Sport HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATSPORTHD/variant.m3u8
-#EXTINF: -1 tvg-chno="935" group-title="Эфирные" tvg-id="rentv",РЕН ТВ HD
+#EXTINF: -1 tv-number="935" group-title="Эфирные" tvg-id="rentv",РЕН ТВ HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8
-#EXTINF: -1 tvg-chno="936" group-title="Эфирные" tvg-id="ntv",НТВ HD
+#EXTINF: -1 tv-number="936" group-title="Эфирные" tvg-id="ntv",НТВ HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_HD/variant.m3u8
-#EXTINF: -1 tvg-chno="938" group-title="Женские" tvg-id="tlc",TLC HD
+#EXTINF: -1 tv-number="938" group-title="Развлекательные" tvg-id="tlc",TLC HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_TLCHD/variant.m3u8
-#EXTINF: -1 tvg-chno="939" group-title="Спортивные" tvg-id="match-football1",МАТЧ! ФУТБОЛ 1
+#EXTINF: -1 tv-number="939" group-title="Спортивные" tvg-id="match-football1",МАТЧ! ФУТБОЛ 1
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL1HD/variant.m3u8
-#EXTINF: -1 tvg-chno="940" group-title="Спортивные" tvg-id="match-football2",МАТЧ! ФУТБОЛ 2
+#EXTINF: -1 tv-number="940" group-title="Спортивные" tvg-id="match-football2",МАТЧ! ФУТБОЛ 2
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL2HD/variant.m3u8
-#EXTINF: -1 tvg-chno="941" group-title="Спортивные" tvg-id="match-football3",МАТЧ! ФУТБОЛ 3
+#EXTINF: -1 tv-number="941" group-title="Спортивные" tvg-id="match-football3",МАТЧ! ФУТБОЛ 3
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL3HD/variant.m3u8
-#EXTINF: -1 tvg-chno="942" group-title="Кино и сериалы" tvg-id="domkino-premium",Дом Кино ПРЕМИУМ
+#EXTINF: -1 tv-number="942" group-title="Кино и сериалы" tvg-id="domkino-premium",Дом Кино ПРЕМИУМ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINOPREMIUMHD/variant.m3u8
-#EXTINF: -1 tvg-chno="943" group-title="Познавательные" tvg-id="moya-planeta",Моя Планета HD
+#EXTINF: -1 tv-number="943" group-title="Познавательные" tvg-id="moya-planeta",Моя Планета HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_IQHD/variant.m3u8
-#EXTINF: -1 tvg-chno="945" group-title="Познавательные" tvg-id="id-xtra-ru",ID HD
+#EXTINF: -1 tv-number="945" group-title="Познавательные" tvg-id="id-xtra-ru",ID HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_IDXTRAHD/variant.m3u8
-#EXTINF: -1 tvg-chno="946" group-title="Эфирные" tvg-id="mir-premium",МИР PREMIUM
-#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRHD/variant.m3u8
-#EXTINF: -1 tvg-chno="947" group-title="Познавательные" tvg-id="museum-hd",Museum HD
+#EXTINF: -1 tv-number="947" group-title="Познавательные" tvg-id="museum-hd",Museum HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUSEUMHD/variant.m3u8
-#EXTINF: -1 tvg-chno="948" group-title="Музыкальные" tvg-id="iconcerts",iConcerts HD
+#EXTINF: -1 tv-number="948" group-title="Музыкальные" tvg-id="iconcerts",iConcerts HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ICONCERTSHD/variant.m3u8
-#EXTINF: -1 tvg-chno="949" group-title="Кулинарные" tvg-id="eda-hd",Еда Премиум
+#EXTINF: -1 tv-number="949" group-title="Познавательные" tvg-id="eda-hd",Еда Премиум
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EDAHD/variant.m3u8
-#EXTINF: -1 tvg-chno="950" group-title="Спортивные" tvg-id="fuel-tv-hd",Fuel TV HD
+#EXTINF: -1 tv-number="950" group-title="Спортивные" tvg-id="fuel-tv-hd",Fuel TV HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FUELHD/variant.m3u8
-#EXTINF: -1 tvg-chno="951" group-title="Познавательные" tvg-id="rtg-hd",RTG HD
+#EXTINF: -1 tv-number="951" group-title="Познавательные" tvg-id="rtg-hd",RTG HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RTGHD/variant.m3u8
-#EXTINF: -1 tvg-chno="952" group-title="Кино и сериалы" tvg-id="bollywood-hd",Bollywood HD
+#EXTINF: -1 tv-number="952" group-title="Кино и сериалы" tvg-id="bollywood-hd",Bollywood HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_BOLLYWOODHD/variant.m3u8
-#EXTINF: -1 tvg-chno="953" group-title="Мужские" tvg-id="drive",Драйв
+#EXTINF: -1 tv-number="953" group-title="Развлекательные" tvg-id="drive",Драйв
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DRIVE/variant.m3u8
-#EXTINF: -1 tvg-chno="954" group-title="Познавательные" tvg-id="rtd-hd",RTД
+#EXTINF: -1 tv-number="954" group-title="Познавательные" tvg-id="rtd-hd",RTД
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RTDHD/variant.m3u8
-#EXTINF: -1 tvg-chno="955" group-title="Мужские" tvg-id="oxotnik-i-rybolov-hd",Охотник и рыболов HD
+#EXTINF: -1 tv-number="955" group-title="Развлекательные" tvg-id="oxotnik-i-rybolov-hd",Охотник и рыболов HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OHOTNIKIRYBOLOVHD/variant.m3u8
-#EXTINF: -1 tvg-chno="956" group-title="Детские" tvg-id="mult",Мульт HD
+#EXTINF: -1 tv-number="956" group-title="Детские" tvg-id="mult",Мульт HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TLUMHD/variant.m3u8
-#EXTINF: -1 tvg-chno="957" group-title="Развлекательные" tvg-id="tnt",ТНТ HD
+#EXTINF: -1 tv-number="957" group-title="Развлекательные" tvg-id="tnt",ТНТ HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNTHD/variant.m3u8
-#EXTINF: -1 tvg-chno="958" group-title="Кино и сериалы" tvg-id="kinoxit",КИНОХИТ
+#EXTINF: -1 tv-number="958" group-title="Кино и сериалы" tvg-id="kinoxit",КИНОХИТ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOHITHD/variant.m3u8
-#EXTINF: -1 tvg-chno="959" group-title="Кино и сериалы" tvg-id="kinosemiya",КИНОСЕМЬЯ
+#EXTINF: -1 tv-number="959" group-title="Кино и сериалы" tvg-id="kinosemiya",КИНОСЕМЬЯ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOFAMILYHD/variant.m3u8
-#EXTINF: -1 tvg-chno="960" group-title="Кино и сериалы" tvg-id="kinosvidanie",КИНОСВИДАНИЕ
+#EXTINF: -1 tv-number="960" group-title="Кино и сериалы" tvg-id="kinosvidanie",КИНОСВИДАНИЕ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KINODATEHD/variant.m3u8
-#EXTINF: -1 tvg-chno="961" group-title="Кино и сериалы" tvg-id="kinopremiera-hd",КИНОПРЕМЬЕРА
+#EXTINF: -1 tv-number="961" group-title="Кино и сериалы" tvg-id="kinopremiera-hd",КИНОПРЕМЬЕРА
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPREMIEREHD/variant.m3u8
-#EXTINF: -1 tvg-chno="962" group-title="Мужские" tvg-id="dikaya-oxota-hd",Дикая охота HD
+#EXTINF: -1 tv-number="962" group-title="Развлекательные" tvg-id="dikaya-oxota-hd",Дикая охота HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/variant.m3u8
-#EXTINF: -1 tvg-chno="963" group-title="Мужские" tvg-id="dikaya-rybalka-hd",Дикая рыбалка HD
+#EXTINF: -1 tv-number="963" group-title="Развлекательные" tvg-id="dikaya-rybalka-hd",Дикая рыбалка HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/variant.m3u8
-#EXTINF: -1 tvg-chno="964" group-title="Кино и сериалы" tvg-id="kino-ultra-hd",Кино UHD
+#EXTINF: -1 tv-number="964" group-title="Кино и сериалы" tvg-id="kino-ultra-hd",Кино UHD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/variant.m3u8
-#EXTINF: -1 tvg-chno="965" group-title="Кино и сериалы" tvg-id="serial-ultrahd",Сериал UHD
+#EXTINF: -1 tv-number="965" group-title="Кино и сериалы" tvg-id="serial-ultrahd",Сериал UHD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/variant.m3u8
-#EXTINF: -1 tvg-chno="987" group-title="Спортивные" tvg-id="eurosport-4k",Eurosport 4K
+#EXTINF: -1 tv-number="987" group-title="Спортивные" tvg-id="eurosport-4k",Eurosport 4K
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8
-#EXTINF: -1 tvg-chno="988" group-title="Познавательные" tvg-id="love-nature-4k",Love Nature 4K
+#EXTINF: -1 tv-number="988" group-title="Познавательные" tvg-id="love-nature-4k",Love Nature 4K
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8
-#EXTINF: -1 tvg-chno="991" group-title="Спортивные" tvg-id="russian-extreme-uhd",Russian Extreme Ultra
+#EXTINF: -1 tv-number="991" group-title="Спортивные" tvg-id="russian-extreme-uhd",Russian Extreme Ultra
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
-#EXTINF: -1 tvg-chno="992" group-title="Кино и сериалы" tvg-id="ultra-hd-cinema",Ultra HD Cinema
+#EXTINF: -1 tv-number="992" group-title="Кино и сериалы" tvg-id="ultra-hd-cinema",Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
-#EXTINF: -1 tvg-chno="993" group-title="Познавательные" tvg-id="nasha-sibir-4k",Наша Сибирь 4K
+#EXTINF: -1 tv-number="993" group-title="Познавательные" tvg-id="nasha-sibir-4k",Наша Сибирь 4K
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
