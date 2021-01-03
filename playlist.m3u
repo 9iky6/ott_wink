@@ -899,7 +899,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_KHLHD/variant.m3u8
 #EXTINF: -1 tv-number="926" tvg-name="Страшное HD" group-title="Кино и сериалы" tvg-id="strashnoe-hd", Страшное HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_STRASHNOEHD/variant.m3u8
-#EXTINF: -1 num="928" group-title="" tvg-id="376017807",СТС HD
+#EXTINF: -1 num="928" tvg-name="СТС" group-title="Развлекательные" tvg-id="sts" catchup="flussonic-ts",СТС HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://st.cdn-tv.club/iptv/K0RYUm9CWGh3VHZsdFFjem1pVXl5WjlMaldpSkVvY1FreU1kWjVva04wcz0/video.ts
 #EXTINF: -1 tv-number="929" tvg-name="AMEDIA Hit" group-title="Кино и сериалы" tvg-id="amedia-hit", AMEDIA Hit
