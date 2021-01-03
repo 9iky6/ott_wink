@@ -464,7 +464,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_ARSENALHD/variant.m3u8
 #EXTINF: -1 tv-number="301" group-title="Детские" tvg-id="nickelodeon-ru",Nickelodeon
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NICKELODEON/variant.m3u8
-#EXTINF: -1 tv-number="302" group-title="Детские" tvg-id="disney",Канал Disney
+#EXTINF: -1 tv-number="302" group-title="Детские" tvg-id="disney-pl2",Канал Disney
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8 
 #EXTINF: -1 tv-number="303" group-title="Детские" tvg-id="mult",Мульт
