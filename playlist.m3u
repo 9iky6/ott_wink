@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz;https://iptvx.one/EPG_LITE" catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}
+#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz;https://iptvx.one/EPG_LITE" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 #EXTINF: -1 tv-number="0" tvg-name="Всё ТВ" group-title="Телемагазины" tvg-id="vsio-tv", Всё ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://s72169.cdn.ngenix.net/hls/CH_VSETVHD_HLS/variant.m3u8
@@ -122,7 +122,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SOVETFEDERATSII/variant.m3u8
 #EXTINF: -1 tv-number="47" tvg-name="ЛДПР ТВ" group-title="Информационные" tvg-id="ldpr-tv", ЛДПР ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_LDPR/variant.m3u8
-#EXTINF: -1 tv-number="48" tvg-name="Эхо-ТВ" group-title="Эфирные" tvg-id="echotv24", Эхо-ТВ
+#EXTINF: -1 tv-number="48" tvg-name="Эхо ТВ" group-title="Эфирные" tvg-id="echotv24", Эхо-ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ECHOTV/variant.m3u8
 #EXTINF: -1 tv-number="49" tvg-name="Красная Линия" group-title="Информационные" tvg-id="krasnaya-linia", Красная Линия
@@ -440,7 +440,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_WEAPON/variant.m3u8
 #EXTINF: -1 tv-number="244" tvg-name="Тайны Галактики" group-title="Познавательные" tvg-id="tayny-galaktiki", Тайны Галактики
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TAINYGALAKTIKIHD/variant.m3u8
-#EXTINF: -1 ch-number="245" tvg-name="Нано" group-title="Познавательные" tvg-id="nano-tv", Нано
+#EXTINF: -1 ch-number="245" tvg-name="Нано ТВ" group-title="Познавательные" tvg-id="nano-tv", Нано
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://mhd.iptv2022.com/p/pz8_wicZiBC1V3Pto0oJag,1609604820/streaming/nano/324/variable.m3u8
 #EXTINF: -1 tv-number="246" tvg-name="Kazakh TV" group-title="Национальные" tvg-id="kazakh-tv", Kazakh TV
@@ -845,7 +845,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8
 #EXTINF: -1 tv-number="901" tvg-name="Eurosport 1 HD" group-title="Спортивные" tvg-id="eurosport1", Eurosport 1 HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_EUROSPORTHD/variant.m3u8
-#EXTINF: -1 tv-number="902" tvg-name="Матч ТВ HD" group-title="Спортивные" tvg-id="match-tv", Матч ТВ HD
+#EXTINF: -1 tv-number="902" tvg-name="Матч ТВ" group-title="Спортивные" tvg-id="match-tv", Матч ТВ HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTVHD/variant.m3u8
 #EXTINF: -1 tv-number="904" tvg-name="National Geographic HD" group-title="Познавательные" tvg-id="national-geographic", National Geographic HD
@@ -911,7 +911,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8
 #EXTINF: -1 tv-number="932" tvg-name="Paramount Channel HD" group-title="Кино и сериалы" tvg-id="paramount-channel", Paramount Channel HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8
-#EXTINF: -1 tv-number="933" tvg-name="Viasat Nature HD/History HD" group-title="Познавательные" tvg-id="viasat-nature-history-hd", Viasat Nature HD/History HD
+#EXTINF: -1 tv-number="933" tvg-name="Viasat Nature/History HD" group-title="Познавательные" tvg-id="viasat-nature-history-hd", Viasat Nature HD/History HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8
 #EXTINF: -1 tv-number="934" tvg-name="Viasat Sport HD" group-title="Спортивные" tvg-id="viasat-sport", Viasat Sport HD
